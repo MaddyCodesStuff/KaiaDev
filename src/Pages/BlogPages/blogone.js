@@ -60,7 +60,7 @@ export default function BlogOne(){
                             </li>
                             <p> This one is arguably the least of my troubles. Once you've learned a few languages, you know how to learn every language, it's simply just learning the syntax of the language. I could use Blueprints instead, which have a similar effect, but is a drag and drop system instead of writing code, but after doing some reading I don't trust myself not to make some spaghetti code from it. At least with actual code I have a few design standards to abide by that will limit that. </p>
                             <li>
-                                Leaning Unreal Engine
+                                Learning Unreal Engine
                             </li>
                             <p>
                                 Unreal is a beast in the friendliest of terms, but like any tool the more you use it the easier it will become. My main concern is the plethora of natives that exist within it, and how easily I'll be able to use them effectively. To my credit I've done Fivem development for the past year and their documentation is awful. Epic seems to have pretty good notes though. That should ease the growing pains.Though considering the engine makes working in Fivem look and feel primitive by comparison.
@@ -75,10 +75,7 @@ export default function BlogOne(){
                         </ol>
                 </p>
                 <p>
-                    Even with the insane amount of work I'm looking at, I can't help but be incredibly excited about making it a reality. Freeing up some of my prior responsiblities was painful as weird as it sounds, and I missing doing it immensily, but I wanted to do something more, so I here I am. 
-                </p>
-                <p>
-                    Even with the insane amount of work I'm looking at, I can't help but be incredibly excited about making it a reality. Freeing up some of my prior responsibilities was painful as weird as it sounds, and I miss doing it immensely, but I wanted to do something more, so here I am. 
+                    Even with the insane amount of work I'm looking at, I can't help but be incredibly excited about making it a reality. Freeing up some of my prior responsiblities was painful as weird as it sounds, and I miss doing it immensily, but I wanted to do something more, so I here I am. 
                 </p>
                 <p>
                     Until Next Time
