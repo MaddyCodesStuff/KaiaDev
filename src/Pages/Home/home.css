@@ -9,7 +9,7 @@
     height: 100%;
     width: 100%;
     min-height: 100vh;
-
+    text-align: center;
   }
 .Links{
 
@@ -23,6 +23,7 @@
     
 }
 .Header{
+    text-align: center;
     margin: 3em;
 
 }
