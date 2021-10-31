@@ -20,7 +20,8 @@
     border-color: white;
     border-width: thin;
     border-style: solid;
-    
+    min-width: 10em;
+    margin: 1em;
 }
 .Header{
     text-align: center;

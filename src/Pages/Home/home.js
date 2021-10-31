@@ -19,6 +19,7 @@ export default function Home(){
                             Blog 1: Beginnings
                         </div>
                     </Link>
+                    <a className = "Links" target="_blank" href="https://www.twitch.tv/SilentKaia">Twitch</a>
             </div>
         
     );
