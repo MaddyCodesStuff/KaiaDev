@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Kaia.Dev/static/css/main.67cce6e8.chunk.css",
+    "main.js": "/Kaia.Dev/static/js/main.8df3bebb.chunk.js",
+    "main.js.map": "/Kaia.Dev/static/js/main.8df3bebb.chunk.js.map",
+    "runtime-main.js": "/Kaia.Dev/static/js/runtime-main.6ada5f86.js",
+    "runtime-main.js.map": "/Kaia.Dev/static/js/runtime-main.6ada5f86.js.map",
+    "static/js/2.336f21a4.chunk.js": "/Kaia.Dev/static/js/2.336f21a4.chunk.js",
+    "static/js/2.336f21a4.chunk.js.map": "/Kaia.Dev/static/js/2.336f21a4.chunk.js.map",
+    "static/js/3.e4041a88.chunk.js": "/Kaia.Dev/static/js/3.e4041a88.chunk.js",
+    "static/js/3.e4041a88.chunk.js.map": "/Kaia.Dev/static/js/3.e4041a88.chunk.js.map",
+    "index.html": "/Kaia.Dev/index.html",
+    "static/css/main.67cce6e8.chunk.css.map": "/Kaia.Dev/static/css/main.67cce6e8.chunk.css.map",
+    "static/js/2.336f21a4.chunk.js.LICENSE.txt": "/Kaia.Dev/static/js/2.336f21a4.chunk.js.LICENSE.txt",
+    "static/media/fighting.bef1a3e3.gif": "/Kaia.Dev/static/media/fighting.bef1a3e3.gif",
+    "static/media/kidbeingdragged.cb2c0b65.gif": "/Kaia.Dev/static/media/kidbeingdragged.cb2c0b65.gif",
+    "static/media/logo.6ce24c58.svg": "/Kaia.Dev/static/media/logo.6ce24c58.svg",
+    "static/media/sword.40b9a504.png": "/Kaia.Dev/static/media/sword.40b9a504.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ada5f86.js",
+    "static/js/2.336f21a4.chunk.js",
+    "static/css/main.67cce6e8.chunk.css",
+    "static/js/main.8df3bebb.chunk.js"
+  ]
+}
