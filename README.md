@@ -7,3 +7,5 @@ Hello and welcome to my repo! My name is Madison, but you can also call me Kaia.
 -Write first blog post
 
 -Actually make the damn site
+
+Hi Citra!
