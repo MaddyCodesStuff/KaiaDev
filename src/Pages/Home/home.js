@@ -11,7 +11,7 @@ export default function Home(){
     return(
             <div className="MainPage">
                 <div className="Header">
-                    <p>Welcome to Kaia Dev Studios</p>
+                    <p>Welcome to Madison Tinsley Development!</p>
                     <em>More to come.</em>
                 </div>
                     <Link to="/blog-1">
